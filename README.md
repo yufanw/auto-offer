@@ -11,7 +11,7 @@ Chrome extension to detect and accept rewards offers from various institutions.
 _Note: To avoid the wrath of the banks, I will not be publishing this extension on the Chrome web store. Please use at your own discretion._
 
 ## Usage:
-1. Download the repository folder.
+1. Download the repository.
 2. Open up ‘extensions’ from your Chrome settings, then select ‘load unpacked’ from the extensions page and select the repository folder that you downloaded.
 3. You should see your new extension in your extensions list now.
 4. Go to a supported banking site, go to the page that shows All Offers on said site, the process should start automatically.
