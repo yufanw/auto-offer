@@ -1,5 +1,5 @@
 # auto-offer
-*Automate Rewards Offers*
+***Automate Rewards Offers***
 
 Chrome extension to detect and accept rewards offers from various institutions.
 
